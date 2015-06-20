@@ -1,12 +1,16 @@
 # BACE Timebank
 ![Bace Logo](http://timebank.sfbace.org/img/bace_down_250x320.png)
 
-* http://timebank.sfbace.org
-* Blog http://sfbace.org
+* [Documentation](documentation/)
+
+# Links 
+
+* __Main Website__ [http://timebank.sfbace.org](http://timebank.sfbace.org)
+* Blog [http://sfbace.org](http://sfbace.org)
+* Rails App [http://timebanksf.herokuapp.com/](http://timebanksf.herokuapp.com/)
 * Support Email support@bace.org
 
 
 ## Under Construction
 
-* http://timebanksf.herokuapp.com/info
 
