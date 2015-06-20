@@ -7,7 +7,7 @@ We are open source, giving our developers plenty of autonomy to experiment and h
 
 ## What's out there 
 
-* Rails App, looks decent on mobile http://timebanksf.herokuapp.com/info
+* Rails App,looks great on mobile http://timebanksf.herokuapp.com/info [documentation](https://github.com/apptivism/timebanksf/blob/master/README.md)
 * [BACE iOS Prototype](iosPrototype/) - iOS app prototypes, experimenting beyond making a basic "time accounting" app
 
 
