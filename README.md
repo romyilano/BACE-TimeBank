@@ -2,6 +2,7 @@
 ![Bace Logo](http://timebank.sfbace.org/img/bace_down_250x320.png)
 
 * [Documentation](documentation/)
+* [Code](code/)
 
 # Links 
 
