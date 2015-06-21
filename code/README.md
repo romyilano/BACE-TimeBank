@@ -9,7 +9,7 @@ We are open source, giving our developers plenty of autonomy to experiment and h
 * Awesome web app in the works,looks great on mobile, new design
 	* [http://timebanksf.herokuapp.com/info](http://timebanksf.herokuapp.com/info)
 	* [documentation](https://github.com/apptivism/timebanksf/blob/master/README.md)
-* [BACE Mobile Prototype](BACE-Mobile-Prototypes/) - iOS app prototypes, experimenting beyond making a basic "time accounting" app
+* [BACE Mobile Prototypes](https://github.com/romyilano/romyilano-BACE-Mobile-Prototypes) - iOS app prototypes, experimenting beyond making a basic "time accounting" app
 
 
 ## REST API
