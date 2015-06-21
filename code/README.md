@@ -2,23 +2,19 @@
 
 We are open source, giving our developers plenty of autonomy to experiment and have fun!
 
-
 ## Code
 
 ## What's out there 
 
-* Rails App,looks great on mobile http://timebanksf.herokuapp.com/info [documentation](https://github.com/apptivism/timebanksf/blob/master/README.md)
+* Awesome web app in the works,looks great on mobile, new design
+	* [http://timebanksf.herokuapp.com/info](http://timebanksf.herokuapp.com/info)
+	* [documentation](https://github.com/apptivism/timebanksf/blob/master/README.md)
 * [BACE iOS Prototype](iosPrototype/) - iOS app prototypes, experimenting beyond making a basic "time accounting" app
 
 
 ## REST API
 
 __Please make REST API a #1 priority__ 
-
-__Please make REST API a #1 priority__ 
-
-__Please make REST API a #1 priority__ 
-
 
 * so that we are not bottlenecked :) 
 * lighten the load so 1 or 2 people don't have to do all the work
