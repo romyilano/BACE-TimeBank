@@ -1,3 +1,6 @@
 [submodule "code/timebanksf"]
 	path = code/timebanksf
 	url = https://github.com/apptivism/timebanksf
+[submodule "code/BACE-Mobile-Prototype"]
+	path = code/BACE-Mobile-Prototype
+	url = git@github.com:romyilano/BACE-Mobile-Prototypes.git
