@@ -6,9 +6,13 @@ We are open source, giving our developers plenty of autonomy to experiment and h
 
 ## What's out there 
 
-* Awesome web app in the works,looks great on mobile, new design
+* Matt working on -> best UI! Awesome web app in the works,looks great on mobile, new design
 	* [http://timebanksf.herokuapp.com/info](http://timebanksf.herokuapp.com/info)
 	* [documentation](https://github.com/apptivism/timebanksf/blob/master/README.md)
+* OSCurrency 2 - ? some kind of migration?  This is an update of the old software
+	* https://github.com/oscurrency/oscurrency/tree/gh_608 (will be merged into master)
+	* https://github.com/oscurrency/oscurrency
+	* http://demo.opensourcecurrency.org
 * [BACE Mobile Prototypes](https://github.com/romyilano/romyilano-BACE-Mobile-Prototypes) - iOS app prototypes, experimenting beyond making a basic "time accounting" app
 
 
