@@ -10,9 +10,9 @@ We are open source, giving our developers plenty of autonomy to experiment and h
 	* [http://timebanksf.herokuapp.com/info](http://timebanksf.herokuapp.com/info)
 	* [documentation](https://github.com/apptivism/timebanksf/blob/master/README.md)
 * OSCurrency 2 - ? some kind of migration?  This is an update of the old software
-	* https://github.com/oscurrency/oscurrency/tree/gh_608 (will be merged into master)
-	* https://github.com/oscurrency/oscurrency
-	* http://demo.opensourcecurrency.org
+	* [branch gh_609](https://github.com/oscurrency/oscurrency/tree/gh_608) (will be merged into master)
+	* [https://github.com/oscurrency/oscurrency](https://github.com/oscurrency/oscurrency)
+	* [old demo - demo.opensourcecurrency.org](http://demo.opensourcecurrency.org)
 * [BACE Mobile Prototypes](https://github.com/romyilano/romyilano-BACE-Mobile-Prototypes) - iOS app prototypes, experimenting beyond making a basic "time accounting" app
 
 
