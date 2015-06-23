@@ -4,3 +4,7 @@
 [submodule "code/BACE-Mobile-Prototypes"]
 	path = code/BACE-Mobile-Prototypes
 	url = git@github.com:romyilano/romyilano-BACE-Mobile-Prototypes.git
+[submodule "code/oscurrency_branch_gh_608"]
+	path = code/oscurrency_branch_gh_608
+	url = https://github.com/oscurrency/oscurrency.git
+	branch = gh_608
