@@ -2,8 +2,7 @@
 
 ## Old Marketing Copy
 
-This has the spirit of things but it's very long-winded and clunky. It needs to be redone, there are endless paragraphs and long monologues.
-
+Great spirit, very long winded. Needs to be cut down, made nicer and shorter.
 
 * Directory : [Old Copy](old_copy/)
 	* [About BACE](old_copy/About.md)
