@@ -8,3 +8,6 @@
 	path = code/oscurrency_branch_gh_608
 	url = https://github.com/oscurrency/oscurrency.git
 	branch = gh_608
+[submodule "code/webDesigns/BaceWebSite1"]
+	path = code/webDesigns/BaceWebSite1
+	url = git@github.com:romyilano/BaceWebSite1.git
